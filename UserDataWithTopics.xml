@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserDataWithTopics>
+    <UserData>
+        <UserId>1</UserId>
+        <UserName>audipasuatmadi</UserName>
+        <FirstName>Putu Audi</FirstName>
+        <LastName>Pasuatmadi</LastName>
+        <Password 
+            hashAlgorithm="algoritmaX">
+            2135raefWD@$awdzdwa@@};gxc
+        </Password>
+
+        <TimeStampts>
+            <DateJoined>16-Aug-2001</DateJoined>
+            <DateUpdated>02-Nov-2020</DateUpdated>
+        </TimeStampts>
+
+    </UserData>
+
+    <Topics>
+        <Topic>
+            <TopicId>1</TopicId>
+            <TopicName>Topic XML JSOn</TopicName>
+        </Topic>
+        <Topic>
+            <TopicId>2</TopicId>
+            <TopicName>Error di baris kode berikut</TopicName>
+        </Topic>
+    </Topics>
+
+</UserDataWithTopics>

@@ -1,0 +1,25 @@
+{
+    "userData": {
+        "userId": 1,
+        "username": "audipasuatmadi",
+        "firstName": "Putu Audi",
+        "lastName": "Pasuatmadi",
+        "password": "2135raefWD@$awdzdwa@@};gxc",
+        
+        "timeStamps": {
+            "dateJoined": "16-Aug-2001",
+            "dateUpdated": "02-Nov-2020"
+        }
+    },
+    
+    "topics": [
+        {
+            "topicId": 1,
+            "topicName": "Topic XML JSON"
+        },
+        {
+            "topicID": 2,
+            "topicName": "Error di baris kode berikut"
+        }
+    ]
+}
